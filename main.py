@@ -1,6 +1,7 @@
 print("hello world")
 print(100 + 200)
 print("Salom")
+print("Azamov")
 
 
 """
@@ -11,3 +12,4 @@ git branch -M main
 git remote add origin https://github.com/dilshodev-py/TestGitProject.git
 git push -u origin main
 """
+print("hello world")
