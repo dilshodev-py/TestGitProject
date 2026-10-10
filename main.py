@@ -1,7 +1,7 @@
 print("hello world")
 print(100 + 200)
 print("Salom")
-print("bobur")
+
 
 """
 git init
