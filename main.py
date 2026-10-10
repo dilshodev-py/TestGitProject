@@ -11,3 +11,4 @@ git branch -M main
 git remote add origin https://github.com/dilshodev-py/TestGitProject.git
 git push -u origin main
 """
+print("hello world")
