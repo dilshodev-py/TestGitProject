@@ -2,7 +2,6 @@ print("hello world")
 print(100 + 200)
 print("Salom")
 print("Abdulaziz")
-print("bobur")
 print("Aziz")
 
 """
