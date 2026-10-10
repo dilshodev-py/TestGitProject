@@ -1,0 +1,9 @@
+git -> service
+git hub -> projectlarni saqlab turuvchi joy
+
+    1. git hub ga project joylash
+    2. git hub ga update ni jo'natamiz
+    2. git hub dan o'zgarishlarni olish
+    3. commanda bo'lib ishlimiz
+    4. branch
+
