@@ -1,8 +1,8 @@
 print("hello world")
 print(100 + 200)
-print("Salom")
 
 
+print("hammaga salom p40")
 """
 git init
 git add .
