@@ -2,8 +2,8 @@ print("hello world")
 print(100 + 200)
 print("Salom")
 print("Abdulaziz")
+print("bobur")
 
-print("Endi project qilishni boshlash kerak!")
 """
 git init
 git add .
