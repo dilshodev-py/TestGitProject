@@ -1,9 +1,10 @@
 print("hello world")
+print(100 + 200)
 
 
 """
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/dilshodev-py/TestGitProject.git
